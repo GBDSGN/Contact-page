@@ -1,0 +1,869 @@
+.bicart-fill {
+    position: absolute;
+    height: 92.17%;
+    width: 95.24%;
+    top: -2.55%;
+    right: 4.76%;
+    bottom: 10.38%;
+    left: 0%;
+    overflow: hidden;
+    opacity: 0.75;
+}
+.elshopping-cart {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 21px;
+    height: 21.7px;
+    overflow: hidden;
+}
+.elshopping-cart-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 69px;
+    width: 21px;
+    height: 21.7px;
+}
+.bicart-icon {
+    position: absolute;
+    height: 100%;
+    width: 21.43%;
+    top: 0.32%;
+    right: 0%;
+    bottom: -0.32%;
+    left: 78.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.mask-group-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 16px;
+    height: 17.5px;
+    object-fit: cover;
+}
+.bicart-parent {
+    position: absolute;
+    height: 85.71%;
+    width: 93.33%;
+    top: 9.51%;
+    right: 6.67%;
+    bottom: 4.78%;
+    left: 0%;
+}
+.group-container {
+    position: absolute;
+    top: 5px;
+    left: 591px;
+    width: 90px;
+    height: 21.7px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 650px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 31px;
+    height: 31.5px;
+    opacity: 0.75;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 583px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 31px;
+    height: 31.5px;
+    opacity: 0.75;
+}
+.home {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    display: inline-block;
+    width: 44px;
+    height: 19.3px;
+}
+.shop {
+    position: absolute;
+    top: 6px;
+    left: 292px;
+    display: inline-block;
+    width: 37px;
+    height: 19.3px;
+}
+.blog {
+    position: absolute;
+    top: 6px;
+    left: 213px;
+    display: inline-block;
+    width: 32px;
+    height: 19.3px;
+}
+.about {
+    position: absolute;
+    top: 6px;
+    left: 376px;
+    display: inline-block;
+    width: 43px;
+    height: 19.3px;
+}
+.contact {
+    position: absolute;
+    top: 6px;
+    left: 466px;
+    font-weight: 600;
+    color: #000;
+    display: inline-block;
+    width: 57px;
+    height: 19.3px;
+}
+.features {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 62px;
+    height: 19.3px;
+}
+.group-inner {
+    position: absolute;
+    top: 12.21px;
+    left: 75px;
+    max-height: 100%;
+    width: 11px;
+    object-fit: contain;
+}
+.features-parent {
+    position: absolute;
+    top: 6px;
+    left: 91px;
+    width: 75px;
+    height: 19.3px;
+}
+.group-parent {
+    position: absolute;
+    top: 40px;
+    left: 659px;
+    width: 681px;
+    height: 31.5px;
+    color: #1f1f1f;
+    font-family: Roboto;
+}
+.contact-us1 {
+    position: absolute;
+    top: 0px;
+    left: 118px;
+}
+.any-question-or {
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #717171;
+    text-align: center;
+}
+.contact-us-parent {
+    position: absolute;
+    top: 145px;
+    left: 489px;
+    width: 462px;
+    height: 97px;
+    font-size: 40px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 0px 60px 30px rgba(0, 0, 0, 0.03);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 1196px;
+    height: 667px;
+}
+.frame-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 491px;
+    height: 647px;
+}
+.frame-item {
+    position: absolute;
+    top: 464px;
+    left: 311px;
+    border-radius: 50%;
+    background-color: #1a1a1a;
+    width: 269px;
+    height: 269px;
+}
+.frame-inner {
+    position: absolute;
+    top: 438px;
+    left: 283px;
+    border-radius: 50%;
+    background-color: rgba(72, 72, 72, 0.5);
+    width: 138px;
+    height: 138px;
+}
+.contact-information {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    font-weight: 600;
+}
+.carbonlocation-filled-icon {
+    position: absolute;
+    top: 148px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.bxsphone-call-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 49px;
+}
+.bxsphone-call-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 167px;
+    height: 24px;
+}
+.icsharp-email-parent {
+    position: absolute;
+    top: 74px;
+    left: 0px;
+    width: 199px;
+    height: 24px;
+}
+.dartmouth-street-boston {
+    position: absolute;
+    top: 148px;
+    left: 49px;
+    display: inline-block;
+    width: 288px;
+}
+.carbonlocation-filled-parent {
+    position: absolute;
+    top: 226px;
+    left: 40px;
+    width: 337px;
+    height: 196px;
+    font-size: 16px;
+}
+.group-icon {
+    position: absolute;
+    top: 581px;
+    left: 39px;
+    width: 30px;
+    height: 30px;
+}
+.frame-child1 {
+    position: absolute;
+    top: 581px;
+    left: 93px;
+    width: 30px;
+    height: 30px;
+}
+.frame-child2 {
+    position: absolute;
+    top: 581px;
+    left: 147px;
+    width: 30px;
+    height: 30px;
+}
+.say-something-to {
+    position: absolute;
+    top: 88px;
+    left: 40px;
+    font-size: 18px;
+    color: #c9c9c9;
+}
+.claritycursor-hand-click-line-icon {
+    position: absolute;
+    top: 607px;
+    left: 106px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.vector-parent {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 491px;
+    height: 647px;
+    overflow: hidden;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1196px;
+    height: 667px;
+    font-size: 28px;
+    color: #fff;
+}
+.vector-icon {
+    position: absolute;
+    top: 55px;
+    left: 0px;
+    max-height: 100%;
+    width: 278px;
+}
+.group-child1 {
+    position: absolute;
+    top: 32px;
+    left: 5px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 11.5px;
+}
+.first-name {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.vector-group {
+    position: absolute;
+    top: 60px;
+    left: 551px;
+    width: 278px;
+    height: 55px;
+}
+.vector-container {
+    position: absolute;
+    top: 160px;
+    left: 551px;
+    width: 278px;
+    height: 55px;
+}
+.doe {
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #8d8d8d;
+}
+.vector-parent1 {
+    position: absolute;
+    top: 60px;
+    left: 868px;
+    width: 278px;
+    height: 55px;
+    color: #000;
+}
+.group-child4 {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    max-height: 100%;
+    width: 595px;
+}
+.write-your-message {
+    position: absolute;
+    top: 25.45px;
+    left: 0px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 149px;
+    height: 20.4px;
+}
+.vector-parent2 {
+    position: absolute;
+    top: 360px;
+    left: 551px;
+    width: 595px;
+    height: 56px;
+}
+.div1 {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.vector-parent3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 278px;
+    height: 55px;
+}
+.claritycursor-hand-click-line-icon1 {
+    position: absolute;
+    top: 48px;
+    left: 227px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.group-parent1 {
+    position: absolute;
+    top: 160px;
+    left: 868px;
+    width: 278px;
+    height: 72px;
+    color: #000;
+}
+.select-subject {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    display: inline-block;
+    width: 109px;
+    height: 20.4px;
+}
+.general-inquiry {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    line-height: 20px;
+    display: inline-block;
+    width: 92px;
+    height: 20.4px;
+}
+.teenyiconstick-circle-solid {
+    position: absolute;
+    top: 4.07px;
+    left: 0px;
+    width: 13px;
+    height: 13.2px;
+    overflow: hidden;
+}
+.general-inquiry-parent {
+    position: absolute;
+    top: 34.63px;
+    left: 0px;
+    width: 115px;
+    height: 20.4px;
+}
+.general-inquiry-group {
+    position: absolute;
+    top: 34.63px;
+    left: 135px;
+    width: 115px;
+    height: 20.4px;
+}
+.general-inquiry-container {
+    position: absolute;
+    top: 34.63px;
+    left: 270px;
+    width: 115px;
+    height: 20.4px;
+}
+.general-inquiry-parent1 {
+    position: absolute;
+    top: 34.63px;
+    left: 405px;
+    width: 115px;
+    height: 20.4px;
+}
+.select-subject-parent {
+    position: absolute;
+    top: 260px;
+    left: 551px;
+    width: 520px;
+    height: 55px;
+    color: #000;
+}
+.send-message {
+    position: relative;
+    font-weight: 500;
+}
+.send-message-wrapper {
+    position: absolute;
+    top: 461px;
+    left: 932px;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 48px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+.group-div {
+    position: absolute;
+    top: 292px;
+    left: 122px;
+    width: 1196px;
+    height: 667px;
+    font-size: 12px;
+    color: #8d8d8d;
+}
+.letter-send-1-icon {
+    position: absolute;
+    top: 780px;
+    left: 919.87px;
+    width: 264.8px;
+    height: 217px;
+    object-fit: contain;
+}
+.footer-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.reach-us {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 600;
+}
+.bxsphone-call-icon1 {
+    position: absolute;
+    height: 100%;
+    width: 14.37%;
+    top: 0%;
+    right: 85.63%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div2 {
+    position: absolute;
+    top: 0%;
+    left: 29.34%;
+}
+.bxsphone-call-group {
+    position: absolute;
+    height: 12.63%;
+    width: 50.45%;
+    top: 24.21%;
+    right: 49.55%;
+    bottom: 63.16%;
+    left: 0%;
+}
+
+.rectangle-icon {
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 647px;
+}
+
+
+.icsharp-email-icon1 {
+    position: absolute;
+    height: 100%;
+    width: 12.06%;
+    top: 0%;
+    right: 87.94%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.demogmailcom1 {
+    position: absolute;
+    top: 0%;
+    left: 24.62%;
+}
+.icsharp-email-group {
+    position: absolute;
+    height: 12.63%;
+    width: 60.12%;
+    top: 49.47%;
+    right: 39.88%;
+    bottom: 37.89%;
+    left: 0%;
+}
+.carbonlocation-filled-icon1 {
+    position: absolute;
+    height: 50%;
+    width: 7.25%;
+    top: 0%;
+    right: 92.75%;
+    bottom: 50%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.dartmouth-street-boston1 {
+    position: absolute;
+    width: 85.2%;
+    top: 0%;
+    left: 14.8%;
+    display: inline-block;
+}
+.carbonlocation-filled-group {
+    position: absolute;
+    height: 25.26%;
+    width: 100%;
+    top: 74.74%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.reach-us-parent {
+    position: absolute;
+    height: 77.87%;
+    width: 25.85%;
+    top: 12.3%;
+    right: 72.59%;
+    bottom: 9.84%;
+    left: 1.56%;
+}
+.blogs {
+    position: absolute;
+    top: 85.54%;
+    left: 0%;
+}
+.company-parent {
+    position: absolute;
+    height: 77.57%;
+    width: 19.13%;
+    top: 0%;
+    right: 80.87%;
+    bottom: 22.43%;
+    left: 0%;
+}
+.techlabz-keybox {
+    position: absolute;
+    top: 27.71%;
+    left: 0%;
+}
+.downloads {
+    position: absolute;
+    top: 56.63%;
+    left: 0%;
+}
+.quick-links-parent {
+    position: absolute;
+    height: 77.57%;
+    width: 27.65%;
+    top: 0%;
+    right: 0%;
+    bottom: 22.43%;
+    left: 72.35%;
+}
+.privacy-policy {
+    position: absolute;
+    top: 21.5%;
+    left: 0%;
+}
+.terms-services {
+    position: absolute;
+    top: 43.93%;
+    left: 0%;
+}
+.terms-of-use {
+    position: absolute;
+    top: 66.36%;
+    left: 0%;
+}
+.refund-policy {
+    position: absolute;
+    top: 88.79%;
+    left: 0%;
+}
+.legal-parent {
+    position: absolute;
+    height: 100%;
+    width: 28.27%;
+    top: 0%;
+    right: 40.12%;
+    bottom: 0%;
+    left: 31.6%;
+}
+.group-parent3 {
+    position: absolute;
+    height: 87.7%;
+    width: 37.56%;
+    top: 12.3%;
+    right: 31.28%;
+    bottom: 0%;
+    left: 31.16%;
+}
+.image-74-icon {
+    width: 100%;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 17.5px;
+    object-fit: cover;
+}
+
+.image-75 {
+    width: 100%;
+    position: relative;
+    background-color: #000;
+    height: 17.5px;
+}
+
+
+.group-child6 {
+    position: absolute;
+    height: 0.41%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 99.59%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-child7 {
+    position: absolute;
+    height: 75.41%;
+    width: 23.74%;
+    top: 7.79%;
+    right: 0.04%;
+    bottom: 16.8%;
+    left: 76.22%;
+    border-radius: 10px;
+    background-color: #131313;
+}
+.join-our-newsletter {
+    position: absolute;
+    top: 13.52%;
+    left: 77.31%;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 600;
+}
+.will-send-you {
+    position: absolute;
+    width: 21.63%;
+    top: 59.84%;
+    left: 77.31%;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Manrope;
+    white-space: pre-wrap;
+    display: inline-block;
+    opacity: 0.5;
+}
+.group-child8 {
+    position: absolute;
+    height: 15.98%;
+    width: 21.63%;
+    top: 36.07%;
+    right: 1.05%;
+    bottom: 47.95%;
+    left: 77.31%;
+    border-radius: 4px;
+    background-color: #1e1e1e;
+}
+.your-email-address {
+    position: absolute;
+    top: 40.98%;
+    left: 78.09%;
+    font-size: 11px;
+    color: #616161;
+}
+.rectangle-icon {
+    position: absolute;
+    height: 15.98%;
+    width: 8.2%;
+    top: 36.07%;
+    right: 1.05%;
+    bottom: 47.95%;
+    left: 90.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.subscribe {
+    position: absolute;
+    top: 40.57%;
+    left: 92.46%;
+    font-size: 12px;
+    font-weight: 500;
+}
+.group-parent2 {
+    position: absolute;
+    height: 50.94%;
+    width: 88.92%;
+    top: 35.28%;
+    right: 5.52%;
+    bottom: 13.78%;
+    left: 5.56%;
+}
+.footer {
+    position: absolute;
+    top: 1009px;
+    left: 0px;
+    width: 1440px;
+    height: 479px;
+    color: #fff;
+}
+.logo-here {
+    position: absolute;
+    top: 1089px;
+    left: 629px;
+    font-size: 36px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+}
+.logo-here1 {
+    position: absolute;
+    top: 41px;
+    left: 100px;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: Inter;
+}
+.contact-us {
+    width: 100%;
+    position: relative;
+    background-color: #fbfbfb;
+    height: 1488px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Poppins;
+}
+
